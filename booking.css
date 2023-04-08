@@ -1,0 +1,900 @@
+.full-shot-travel-concept-with-icon5 {
+  position: absolute;
+  top: 289px;
+  left: 0;
+  width: 1440px;
+  height: 1351px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.booking-child {
+  text-decoration: none;
+  position: absolute;
+  top: 162px;
+  left: 79px;
+  background-color: var(--color-gainsboro);
+  width: 112px;
+  height: 99px;
+  cursor: pointer;
+}
+.booking-item {
+  position: absolute;
+  top: 1102px;
+  left: 5px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-snow);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1425px;
+  height: 318px;
+}
+.booking-child1,
+.booking-child2,
+.booking-child3,
+.booking-inner {
+  border: 0;
+  background-color: var(--color-whitesmoke-100);
+  position: absolute;
+  top: 1168px;
+  left: 598px;
+  border-radius: var(--br-6xl);
+  width: 296px;
+  height: 44px;
+}
+.booking-child1,
+.booking-child2,
+.booking-child3 {
+  top: 1300px;
+  left: 55px;
+}
+.booking-child2,
+.booking-child3 {
+  left: 598px;
+}
+.booking-child3 {
+  top: 1172px;
+  left: 55px;
+}
+.booking-child4,
+.booking-child5,
+.booking-child6,
+.booking-child7 {
+  text-decoration: none;
+  position: absolute;
+  top: 188px;
+  left: 380px;
+  background-color: var(--color-gainsboro);
+  width: 158px;
+  height: 105px;
+}
+.booking-child5,
+.booking-child6,
+.booking-child7 {
+  top: 182px;
+  left: 557px;
+  width: 176px;
+  cursor: pointer;
+}
+.booking-child6,
+.booking-child7 {
+  top: 184px;
+  left: 733px;
+  width: 235px;
+}
+.booking-child7 {
+  left: 968px;
+  width: 172px;
+}
+.search {
+  position: absolute;
+  top: 5px;
+  left: 13px;
+  font-weight: 600;
+  display: inline-block;
+  width: 232px;
+  height: 48px;
+}
+.search-wrapper {
+  text-decoration: none;
+  position: absolute;
+  top: 1229px;
+  left: 1034px;
+  background-color: var(--color-red-100);
+  width: 245px;
+  height: 57px;
+  overflow: hidden;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+}
+.hotel-name-if,
+.no-of-people,
+.travel-dates,
+.travel-destiny {
+  position: absolute;
+  top: 1305px;
+  left: 597px;
+  text-align: center;
+  display: inline-block;
+  width: 296px;
+  height: 33px;
+}
+.no-of-people,
+.travel-dates,
+.travel-destiny {
+  top: 1183px;
+}
+.travel-dates,
+.travel-destiny {
+  top: 1305px;
+  left: 55px;
+}
+.travel-destiny {
+  top: 1183px;
+}
+.span20 {
+  letter-spacing: 2em;
+}
+.booking-most-popular-container4 {
+  top: 249px;
+  left: 394px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+  width: 757px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.booking-most-popular-container4,
+.frame-child1,
+.home5,
+.torist4 {
+  position: absolute;
+  font-family: var(--font-inter);
+}
+.torist4 {
+  top: 18px;
+  left: 15px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.02em;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+  width: 393px;
+  height: 60px;
+}
+.frame-child1,
+.home5 {
+  font-size: var(--font-size-5xl);
+}
+.frame-child1 {
+  border: 0;
+  display: block;
+  background-color: var(--color-white);
+  top: 108px;
+  left: 178px;
+  border-radius: var(--br-31xl);
+  width: 1084px;
+  height: 57px;
+  overflow: hidden;
+}
+.home5 {
+  top: 226px;
+  left: 94px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+  width: 162px;
+  height: 35px;
+}
+.home-duotone-child13,
+.home-duotone-child14,
+.home-duotone-child15 {
+  position: absolute;
+  height: 58.33%;
+  width: 58.33%;
+  top: 29.64%;
+  right: 20.83%;
+  bottom: 12.02%;
+  left: 20.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-duotone-child14,
+.home-duotone-child15 {
+  height: 37.5%;
+  width: 75%;
+  top: 17.22%;
+  right: 12.5%;
+  bottom: 45.28%;
+  left: 12.5%;
+}
+.home-duotone-child15 {
+  height: 25%;
+  width: 20.83%;
+  top: 62.5%;
+  right: 39.58%;
+  bottom: 12.5%;
+  left: 39.58%;
+}
+.home-duotone-child16 {
+  position: absolute;
+  height: 16.67%;
+  width: 8.33%;
+  top: 20.83%;
+  right: 25%;
+  bottom: 62.5%;
+  left: 66.67%;
+  border-radius: var(--br-12xs-5);
+  background-color: var(--color-gray-100);
+}
+.home-duotone4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 165px;
+  left: 108px;
+  width: 48px;
+  height: 48px;
+}
+.subtract-icon11 {
+  position: relative;
+  width: 28px;
+  height: 42.74px;
+}
+.sign-in-squre-fill3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 195px;
+  left: 1045px;
+  width: 48px;
+  height: 48px;
+}
+.menu-child10,
+.menu-child11,
+.menu-child12 {
+  position: absolute;
+  height: 4.17%;
+  width: 62.5%;
+  top: 27.08%;
+  right: 18.75%;
+  bottom: 68.75%;
+  left: 18.75%;
+  border-radius: var(--br-11xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.menu-child11,
+.menu-child12 {
+  top: 47.92%;
+  bottom: 47.92%;
+}
+.menu-child12 {
+  top: 68.75%;
+  bottom: 27.08%;
+}
+.menu4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 24px;
+  left: 1366px;
+  width: 48px;
+  height: 48px;
+}
+.pin-duotone-child6,
+.pin-duotone-child7 {
+  position: absolute;
+  height: 67.51%;
+  width: 67.51%;
+  top: 11.64%;
+  right: 11.64%;
+  bottom: 20.85%;
+  left: 20.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pin-duotone-child7 {
+  height: 21.67%;
+  width: 21.67%;
+  top: 58.96%;
+  right: 58.96%;
+  bottom: 19.38%;
+  left: 19.38%;
+}
+.pin-duotone4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 195px;
+  left: 631px;
+  width: 48px;
+  height: 48px;
+}
+.map-duotone-line-child17,
+.map-duotone-line-child18 {
+  position: absolute;
+  height: 47.92%;
+  width: 16.67%;
+  top: 22.92%;
+  right: 64.58%;
+  bottom: 29.17%;
+  left: 18.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.map-duotone-line-child18 {
+  top: 25%;
+  right: 18.75%;
+  bottom: 27.08%;
+  left: 64.58%;
+}
+.map-duotone-line-child19,
+.map-duotone-line-child20,
+.map-duotone-line-child21 {
+  position: absolute;
+  height: 51.96%;
+  width: 64.58%;
+  top: 21.94%;
+  right: 17.71%;
+  bottom: 26.11%;
+  left: 17.71%;
+  border-radius: 0.45px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.map-duotone-line-child20,
+.map-duotone-line-child21 {
+  height: 41.67%;
+  width: 2.08%;
+  top: 31.25%;
+  right: 34.38%;
+  bottom: 27.08%;
+  left: 63.54%;
+}
+.map-duotone-line-child21 {
+  top: 22.92%;
+  right: 63.54%;
+  bottom: 35.42%;
+  left: 34.38%;
+}
+.map-duotone-line4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 195px;
+  left: 434px;
+  width: 48px;
+  height: 48px;
+}
+.user-cicrle-duotone-child5,
+.user-cicrle-duotone-child6 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.user-cicrle-duotone-child5 {
+  height: 75%;
+  width: 75%;
+  top: 12.5%;
+  right: 12.5%;
+  bottom: 12.5%;
+  left: 12.5%;
+  border-radius: var(--br-33xl);
+}
+.user-cicrle-duotone-child6 {
+  height: 33.33%;
+  width: 33.33%;
+  top: 25%;
+  right: 33.33%;
+  bottom: 41.67%;
+  left: 33.33%;
+}
+.intersect-icon4 {
+  position: relative;
+  border-radius: 0.25px;
+  width: 25.14px;
+  height: 12px;
+}
+.user-cicrle-duotone4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 24px;
+  left: 1307px;
+  width: 48px;
+  height: 48px;
+}
+.group-light-child13,
+.group-light-child14,
+.group-light-child15,
+.group-light-child16 {
+  position: absolute;
+  height: 25%;
+  width: 25%;
+  top: 20.83%;
+  right: 37.5%;
+  bottom: 54.17%;
+  left: 37.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-light-child14,
+.group-light-child15,
+.group-light-child16 {
+  height: 20.83%;
+  width: 20.83%;
+  right: 23.6%;
+  bottom: 58.33%;
+  left: 55.56%;
+}
+.group-light-child15,
+.group-light-child16 {
+  width: 19.44%;
+  right: 55.56%;
+  left: 25%;
+}
+.group-light-child16 {
+  height: 27.08%;
+  width: 47.68%;
+  top: 51.04%;
+  right: 26.16%;
+  bottom: 21.88%;
+  left: 26.16%;
+}
+.subtract-icon12 {
+  position: relative;
+  width: 14.16px;
+  height: 11px;
+}
+.group-light4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 195px;
+  left: 838px;
+  width: 48px;
+  height: 48px;
+}
+.more5 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.02em;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.expand-down-child3 {
+  position: absolute;
+  height: 29.42%;
+  width: 52.95%;
+  top: 36.03%;
+  right: 23.53%;
+  bottom: 34.55%;
+  left: 23.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.expand-down5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: -3px;
+  left: 81px;
+  width: 48px;
+  height: 48px;
+}
+.booking-most-popular-personal-parent2,
+.more-parent1 {
+  position: absolute;
+  background-color: var(--color-silver-100);
+  overflow: hidden;
+}
+.more-parent1 {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: 0;
+  top: 201px;
+  left: 1285px;
+  border-radius: var(--br-21xl);
+  box-sizing: border-box;
+  width: 129px;
+  height: 42px;
+}
+.booking-most-popular-personal-parent2 {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 273px;
+}
+.span22 {
+  font-size: var(--font-size-17xl);
+}
+.b4 {
+  font-family: var(--font-inter);
+}
+.content13 {
+  font-size: var(--font-size-5xl);
+}
+.content12 {
+  margin: 0;
+}
+.plan-to-travel14 {
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.content-plan-to-container4,
+.social-media4 {
+  position: absolute;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+}
+.content-plan-to-container4 {
+  top: 0;
+  left: 0;
+  white-space: pre-wrap;
+  width: 472px;
+  height: 179px;
+}
+.social-media4 {
+  top: 10px;
+  left: 1243px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  width: 197px;
+  height: 83px;
+}
+.vector-icon25 {
+  position: absolute;
+  height: 99.39%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0.61%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook-negative4 {
+  text-decoration: none;
+  position: absolute;
+  top: 45px;
+  left: 1243px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.vector-icon26,
+.vector-icon27,
+.vector-icon28 {
+  position: absolute;
+  height: 99.98%;
+  width: 99.94%;
+  top: 0;
+  right: 0.06%;
+  bottom: 0.02%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon27,
+.vector-icon28 {
+  height: 51.37%;
+  width: 51.37%;
+  top: 24.32%;
+  right: 24.32%;
+  bottom: 24.32%;
+  left: 24.32%;
+}
+.vector-icon28 {
+  height: 11.99%;
+  width: 11.99%;
+  top: 17.3%;
+  right: 17.3%;
+  bottom: 70.7%;
+  left: 70.7%;
+}
+.instagram-negative4 {
+  text-decoration: none;
+  position: absolute;
+  top: 45px;
+  left: 1315px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.vector-icon29 {
+  position: absolute;
+  height: 81.25%;
+  width: 100%;
+  top: 9.37%;
+  right: 0;
+  bottom: 9.37%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.twitter-negative4 {
+  text-decoration: none;
+  position: absolute;
+  top: 45px;
+  left: 1387px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.booking-child8,
+.content-plan-to-travel-popular-parent2 {
+  position: absolute;
+  top: 1556px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1440px;
+  height: 177px;
+  overflow: hidden;
+}
+.booking-child8 {
+  top: 273px;
+  background-color: var(--color-silver-100);
+  height: 32px;
+}
+.booking-child10,
+.booking-child11,
+.booking-child9 {
+  position: absolute;
+  top: 538px;
+  left: 37px;
+  background-color: var(--color-silver-100);
+  filter: blur(20px);
+  width: 389px;
+  height: 114px;
+}
+.booking-child10,
+.booking-child11 {
+  left: 529px;
+}
+.booking-child11 {
+  left: 1016px;
+}
+.trains3 {
+  font-weight: 600;
+}
+.trains2 {
+  letter-spacing: 0.05em;
+}
+.trains {
+  position: absolute;
+  top: 569px;
+  left: 580px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 273px;
+  height: 44px;
+  text-shadow: 0 6px 7px rgba(0, 0, 0, 0.25);
+}
+.buses3 {
+  font-weight: 500;
+}
+.buses,
+.flights {
+  position: absolute;
+  top: 569px;
+  left: 1055px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 272px;
+  height: 44px;
+  text-shadow: 0 6px 7px rgba(0, 0, 0, 0.25);
+}
+.flights {
+  left: 79px;
+}
+.rectangle-nav {
+  position: absolute;
+  top: 668px;
+  left: 5px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-snow);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1425px;
+  height: 186px;
+}
+.horizontal-switch-child,
+.horizontal-switch-item {
+  position: absolute;
+  height: 36.28%;
+  width: 71.7%;
+  top: 15.19%;
+  right: 114.58%;
+  bottom: 48.53%;
+  left: -86.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.horizontal-switch-item {
+  width: 75.86%;
+  top: 48.53%;
+  right: 113.72%;
+  bottom: 15.19%;
+  left: -89.58%;
+}
+.horizontal-switch {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 746px;
+  left: 371px;
+  width: 48px;
+  height: 48px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.booking-child12,
+.booking-child13 {
+  border: 0;
+  background-color: var(--color-whitesmoke-100);
+  position: absolute;
+  top: 743px;
+  left: 390px;
+  border-radius: var(--br-6xl);
+  width: 305px;
+  height: 44px;
+}
+.booking-child13 {
+  left: 780px;
+}
+.frame-a {
+  text-decoration: none;
+  position: absolute;
+  top: 732px;
+  left: 1169px;
+  background-color: var(--color-red-100);
+  width: 245px;
+  height: 57px;
+  overflow: hidden;
+}
+.from-to-date {
+  position: absolute;
+  top: 716px;
+  left: 0;
+  color: #ff4e6e;
+  display: inline-block;
+  width: 1151px;
+  height: 23px;
+}
+.booking-child14 {
+  border: 0;
+  background-color: var(--color-whitesmoke-100);
+  position: absolute;
+  top: 743px;
+  left: 9px;
+  border-radius: var(--br-6xl);
+  width: 296px;
+  height: 44px;
+}
+.ddmmyyyy,
+.going-to,
+.leaving-from,
+.search1 {
+  position: absolute;
+  top: 753px;
+  left: 18px;
+  display: inline-block;
+  width: 256px;
+  height: 34px;
+}
+.ddmmyyyy,
+.going-to,
+.search1 {
+  top: 755px;
+  left: 408px;
+}
+.ddmmyyyy,
+.search1 {
+  left: 798px;
+}
+.search1 {
+  top: 739px;
+  left: 1182px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  color: var(--color-white);
+  width: 232px;
+  height: 48px;
+}
+.icon-bus-1,
+.icon-flight-1,
+.icon-train-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 562px;
+  left: 293px;
+  border-radius: var(--br-16xl);
+  width: 70px;
+  height: 70px;
+  background-image: url(./public/icon-flight-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.icon-bus-1,
+.icon-train-1 {
+  left: 786px;
+  background-image: url(./public/icon-train-1@2x.png);
+}
+.icon-bus-1 {
+  left: 1279px;
+  background-image: url(./public/icon-bus-1@2x.png);
+}
+.hotel-pre,
+.ticket-counter {
+  position: absolute;
+  top: 379px;
+  left: 393px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  font-weight: 700;
+  color: var(--color-tomato);
+  text-align: center;
+  width: 702px;
+  height: 71px;
+}
+.hotel-pre {
+  top: 967px;
+  left: 395px;
+}
+.booking {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1733px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-silver-200);
+  font-family: var(--font-inter);
+}

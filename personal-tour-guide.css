@@ -1,0 +1,885 @@
+.full-shot-travel-concept-with-icon3 {
+  position: absolute;
+  top: 289px;
+  left: 0;
+  width: 1440px;
+  height: 1343px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.personal-tour-guide-child {
+  text-decoration: none;
+  position: absolute;
+  top: 176px;
+  left: 380px;
+  background-color: var(--color-gainsboro);
+  width: 168px;
+  height: 107px;
+  cursor: pointer;
+}
+.personal-tour-guide-child1,
+.personal-tour-guide-inner,
+.personal-tour-guide-item {
+  text-decoration: none;
+  position: absolute;
+  top: 179px;
+  background-color: var(--color-gainsboro);
+  height: 107px;
+}
+.personal-tour-guide-item {
+  left: 964px;
+  width: 199px;
+  cursor: pointer;
+}
+.personal-tour-guide-child1,
+.personal-tour-guide-inner {
+  left: 736px;
+  width: 231px;
+}
+.personal-tour-guide-child1 {
+  top: 178px;
+  left: 548px;
+  width: 188px;
+  cursor: pointer;
+}
+.span9 {
+  letter-spacing: 2em;
+}
+.booking-most-popular-container2 {
+  top: 249px;
+  left: 394px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+  width: 757px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.booking-most-popular-container2,
+.frame-inner,
+.home3,
+.torist2 {
+  position: absolute;
+  font-family: var(--font-inter);
+}
+.torist2 {
+  top: 18px;
+  left: 15px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.02em;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+  width: 393px;
+  height: 60px;
+}
+.frame-inner,
+.home3 {
+  font-size: var(--font-size-5xl);
+}
+.frame-inner {
+  border: 0;
+  display: block;
+  background-color: var(--color-white);
+  top: 108px;
+  left: 178px;
+  border-radius: var(--br-31xl);
+  width: 1084px;
+  height: 57px;
+  overflow: hidden;
+}
+.home3 {
+  top: 226px;
+  left: 94px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+  width: 162px;
+  height: 35px;
+}
+.home-duotone-child5,
+.home-duotone-child6,
+.home-duotone-child7 {
+  position: absolute;
+  height: 58.33%;
+  width: 58.33%;
+  top: 29.64%;
+  right: 20.83%;
+  bottom: 12.02%;
+  left: 20.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-duotone-child6,
+.home-duotone-child7 {
+  height: 37.5%;
+  width: 75%;
+  top: 17.22%;
+  right: 12.5%;
+  bottom: 45.28%;
+  left: 12.5%;
+}
+.home-duotone-child7 {
+  height: 25%;
+  width: 20.83%;
+  top: 62.5%;
+  right: 39.58%;
+  bottom: 12.5%;
+  left: 39.58%;
+}
+.home-duotone-child8 {
+  position: absolute;
+  height: 16.67%;
+  width: 8.33%;
+  top: 20.83%;
+  right: 25%;
+  bottom: 62.5%;
+  left: 66.67%;
+  border-radius: var(--br-12xs-5);
+  background-color: var(--color-gray-100);
+}
+.home-duotone2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 165px;
+  left: 108px;
+  width: 48px;
+  height: 48px;
+}
+.sign-in-squre-fill-icon {
+  position: absolute;
+  top: 195px;
+  left: 1045px;
+  width: 48px;
+  height: 48px;
+}
+.menu-child4,
+.menu-child5,
+.menu-child6 {
+  position: absolute;
+  height: 4.17%;
+  width: 62.5%;
+  top: 27.08%;
+  right: 18.75%;
+  bottom: 68.75%;
+  left: 18.75%;
+  border-radius: var(--br-11xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.menu-child5,
+.menu-child6 {
+  top: 47.92%;
+  bottom: 47.92%;
+}
+.menu-child6 {
+  top: 68.75%;
+  bottom: 27.08%;
+}
+.menu2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 24px;
+  left: 1366px;
+  width: 48px;
+  height: 48px;
+}
+.pin-duotone-child2,
+.pin-duotone-child3 {
+  position: absolute;
+  height: 67.51%;
+  width: 67.51%;
+  top: 11.64%;
+  right: 11.64%;
+  bottom: 20.85%;
+  left: 20.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pin-duotone-child3 {
+  height: 21.67%;
+  width: 21.67%;
+  top: 58.96%;
+  right: 58.96%;
+  bottom: 19.38%;
+  left: 19.38%;
+}
+.pin-duotone2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 195px;
+  left: 631px;
+  width: 48px;
+  height: 48px;
+}
+.map-duotone-line-child7,
+.map-duotone-line-child8 {
+  position: absolute;
+  height: 47.92%;
+  width: 16.67%;
+  top: 22.92%;
+  right: 64.58%;
+  bottom: 29.17%;
+  left: 18.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.map-duotone-line-child8 {
+  top: 25%;
+  right: 18.75%;
+  bottom: 27.08%;
+  left: 64.58%;
+}
+.map-duotone-line-child10,
+.map-duotone-line-child11,
+.map-duotone-line-child9 {
+  position: absolute;
+  height: 51.96%;
+  width: 64.58%;
+  top: 21.94%;
+  right: 17.71%;
+  bottom: 26.11%;
+  left: 17.71%;
+  border-radius: 0.45px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.map-duotone-line-child10,
+.map-duotone-line-child11 {
+  height: 41.67%;
+  width: 2.08%;
+  top: 31.25%;
+  right: 34.38%;
+  bottom: 27.08%;
+  left: 63.54%;
+}
+.map-duotone-line-child11 {
+  top: 22.92%;
+  right: 63.54%;
+  bottom: 35.42%;
+  left: 34.38%;
+}
+.map-duotone-line2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 195px;
+  left: 434px;
+  width: 48px;
+  height: 48px;
+}
+.user-cicrle-duotone-child1,
+.user-cicrle-duotone-child2 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.user-cicrle-duotone-child1 {
+  height: 75%;
+  width: 75%;
+  top: 12.5%;
+  right: 12.5%;
+  bottom: 12.5%;
+  left: 12.5%;
+  border-radius: var(--br-33xl);
+}
+.user-cicrle-duotone-child2 {
+  height: 33.33%;
+  width: 33.33%;
+  top: 25%;
+  right: 33.33%;
+  bottom: 41.67%;
+  left: 33.33%;
+}
+.intersect-icon2 {
+  position: relative;
+  border-radius: 0.25px;
+  width: 25.14px;
+  height: 12px;
+}
+.user-cicrle-duotone2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 24px;
+  left: 1307px;
+  width: 48px;
+  height: 48px;
+}
+.group-light-child5,
+.group-light-child6,
+.group-light-child7,
+.group-light-child8 {
+  position: absolute;
+  height: 25%;
+  width: 25%;
+  top: 20.83%;
+  right: 37.5%;
+  bottom: 54.17%;
+  left: 37.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-light-child6,
+.group-light-child7,
+.group-light-child8 {
+  height: 20.83%;
+  width: 20.83%;
+  right: 23.6%;
+  bottom: 58.33%;
+  left: 55.56%;
+}
+.group-light-child7,
+.group-light-child8 {
+  width: 19.44%;
+  right: 55.56%;
+  left: 25%;
+}
+.group-light-child8 {
+  height: 27.08%;
+  width: 47.68%;
+  top: 51.04%;
+  right: 26.16%;
+  bottom: 21.88%;
+  left: 26.16%;
+}
+.subtract-icon6 {
+  position: relative;
+  width: 14.16px;
+  height: 11px;
+}
+.group-light2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 195px;
+  left: 838px;
+  width: 48px;
+  height: 48px;
+}
+.more2 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.02em;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.expand-down-inner {
+  position: absolute;
+  height: 29.42%;
+  width: 52.95%;
+  top: 36.03%;
+  right: 23.53%;
+  bottom: 34.55%;
+  left: 23.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.expand-down2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: -3px;
+  left: 81px;
+  width: 48px;
+  height: 48px;
+}
+.booking-most-popular-personal-container,
+.more-container {
+  position: absolute;
+  background-color: var(--color-silver-100);
+  overflow: hidden;
+}
+.more-container {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: 0;
+  top: 201px;
+  left: 1285px;
+  border-radius: var(--br-21xl);
+  box-sizing: border-box;
+  width: 129px;
+  height: 42px;
+}
+.booking-most-popular-personal-container {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 273px;
+}
+.span12 {
+  font-size: var(--font-size-17xl);
+}
+.b2 {
+  font-family: var(--font-inter);
+}
+.content7 {
+  font-size: var(--font-size-5xl);
+}
+.content6 {
+  margin: 0;
+}
+.plan-to-travel8 {
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.content-plan-to-container2,
+.social-media2 {
+  position: absolute;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+}
+.content-plan-to-container2 {
+  top: 0;
+  left: 0;
+  white-space: pre-wrap;
+  width: 472px;
+  height: 179px;
+}
+.social-media2 {
+  top: 10px;
+  left: 1244px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  width: 196px;
+  height: 83px;
+}
+.vector-icon15 {
+  position: absolute;
+  height: 99.39%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0.61%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook-negative2 {
+  text-decoration: none;
+  position: absolute;
+  top: 42px;
+  left: 1244px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.vector-icon16,
+.vector-icon17,
+.vector-icon18 {
+  position: absolute;
+  height: 99.98%;
+  width: 99.94%;
+  top: 0;
+  right: 0.06%;
+  bottom: 0.02%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon17,
+.vector-icon18 {
+  height: 51.37%;
+  width: 51.37%;
+  top: 24.32%;
+  right: 24.32%;
+  bottom: 24.32%;
+  left: 24.32%;
+}
+.vector-icon18 {
+  height: 11.99%;
+  width: 11.99%;
+  top: 17.3%;
+  right: 17.3%;
+  bottom: 70.7%;
+  left: 70.7%;
+}
+.instagram-negative2 {
+  text-decoration: none;
+  position: absolute;
+  top: 42px;
+  left: 1317px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.vector-icon19 {
+  position: absolute;
+  height: 81.25%;
+  width: 100%;
+  top: 9.37%;
+  right: 0;
+  bottom: 9.37%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.twitter-negative2 {
+  text-decoration: none;
+  position: absolute;
+  top: 42px;
+  left: 1389px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.content-plan-to-travel-popular-container {
+  position: absolute;
+  top: 1453px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1440px;
+  height: 177px;
+  overflow: hidden;
+}
+.frame-input,
+.personal-tour-guide-child2 {
+  background-color: var(--color-silver-100);
+  position: absolute;
+}
+.personal-tour-guide-child2 {
+  top: 273px;
+  left: 0;
+  width: 1440px;
+  height: 32px;
+  overflow: hidden;
+}
+.frame-input {
+  border: 0;
+  font-weight: 900;
+  font-family: var(--font-avenir);
+  font-size: var(--font-size-29xl);
+  top: 415px;
+  left: 425px;
+  border-radius: var(--br-31xl);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.personal-tour-guide-child3,
+.personal-tour-guide-child4,
+.personal-tour-guide-child5,
+.personal-tour-guide-child6,
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-whitesmoke-200);
+  position: absolute;
+  top: 605px;
+  left: 175px;
+  border-radius: var(--br-23xl);
+  width: 1107px;
+  height: 84px;
+}
+.personal-tour-guide-child3,
+.personal-tour-guide-child4,
+.personal-tour-guide-child5,
+.personal-tour-guide-child6 {
+  top: 1113px;
+  left: 178px;
+}
+.personal-tour-guide-child4,
+.personal-tour-guide-child5,
+.personal-tour-guide-child6 {
+  top: 1263px;
+  left: 492px;
+  width: 495px;
+}
+.personal-tour-guide-child5,
+.personal-tour-guide-child6 {
+  top: 941px;
+  left: 178px;
+  width: 1107px;
+}
+.personal-tour-guide-child6 {
+  top: 773px;
+}
+.personal-tour-guide-child10,
+.personal-tour-guide-child7,
+.personal-tour-guide-child8,
+.personal-tour-guide-child9 {
+  position: absolute;
+  top: 617px;
+  left: 886px;
+  border-radius: var(--br-23xl);
+  width: 333px;
+  height: 60px;
+  object-fit: cover;
+}
+.personal-tour-guide-child10,
+.personal-tour-guide-child8,
+.personal-tour-guide-child9 {
+  top: 1125px;
+  left: 891px;
+}
+.personal-tour-guide-child10,
+.personal-tour-guide-child9 {
+  top: 960px;
+  left: 886px;
+}
+.personal-tour-guide-child10 {
+  top: 788px;
+}
+.star-duotone-icon {
+  position: absolute;
+  top: 1133px;
+  left: 1097px;
+  width: 48px;
+  height: 48px;
+}
+.star-duotone-icon1,
+.star-icon,
+.star-icon1 {
+  position: absolute;
+  top: 623px;
+  left: 1156px;
+  width: 48px;
+  height: 48px;
+}
+.star-icon,
+.star-icon1 {
+  top: 967px;
+}
+.star-icon1 {
+  top: 1133px;
+}
+.star-fill-icon,
+.star-fill-icon1,
+.star-fill-icon2 {
+  position: absolute;
+  top: 623px;
+  left: 978px;
+  width: 48px;
+  height: 48px;
+}
+.star-fill-icon1,
+.star-fill-icon2 {
+  left: 1038px;
+}
+.star-fill-icon2 {
+  left: 1093px;
+}
+.star-fill-icon3,
+.star-fill-icon4,
+.star-fill-icon5,
+.star-fill-icon6 {
+  position: absolute;
+  top: 967px;
+  left: 978px;
+  width: 48px;
+  height: 48px;
+}
+.star-fill-icon4,
+.star-fill-icon5,
+.star-fill-icon6 {
+  top: 1131px;
+}
+.star-fill-icon5,
+.star-fill-icon6 {
+  top: 1133px;
+  left: 1038px;
+}
+.star-fill-icon6 {
+  top: 1131px;
+  left: 919px;
+}
+.star-fill-icon7,
+.star-fill-icon8,
+.star-fill-icon9 {
+  position: absolute;
+  top: 967px;
+  left: 1093px;
+  width: 48px;
+  height: 48px;
+}
+.star-fill-icon8,
+.star-fill-icon9 {
+  left: 1038px;
+}
+.star-fill-icon9 {
+  left: 919px;
+}
+.star-fill-icon10,
+.star-fill-icon11,
+.star-fill-icon12 {
+  position: absolute;
+  top: 791px;
+  left: 1156px;
+  width: 48px;
+  height: 48px;
+}
+.star-fill-icon11,
+.star-fill-icon12 {
+  top: 792px;
+  left: 1097px;
+}
+.star-fill-icon12 {
+  left: 1038px;
+}
+.star-fill-icon13,
+.star-fill-icon14,
+.star-fill-icon15 {
+  position: absolute;
+  top: 793px;
+  left: 978px;
+  width: 48px;
+  height: 48px;
+}
+.star-fill-icon14,
+.star-fill-icon15 {
+  top: 791px;
+  left: 919px;
+}
+.star-fill-icon15 {
+  top: 623px;
+}
+.expand-down-child1,
+.expand-down3 {
+  position: absolute;
+  top: 21.29px;
+  left: 14.29px;
+  width: 31.41px;
+  height: 17.12px;
+}
+.expand-down3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1278px;
+  left: 823px;
+  width: 60px;
+  height: 59px;
+  mix-blend-mode: darken;
+}
+.user-fill-child,
+.user-fill-item {
+  position: absolute;
+  height: 29.17%;
+  width: 72.44%;
+  top: 58.33%;
+  right: 13.07%;
+  bottom: 12.5%;
+  left: 14.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.user-fill-item {
+  height: 41.67%;
+  width: 41.67%;
+  top: 12.5%;
+  right: 29.17%;
+  bottom: 45.83%;
+  left: 29.17%;
+}
+.user-fill,
+.user-fill1,
+.user-fill2,
+.user-fill3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 959px;
+  left: 232px;
+  width: 48px;
+  height: 48px;
+}
+.user-fill1,
+.user-fill2,
+.user-fill3 {
+  top: 1131px;
+}
+.user-fill2,
+.user-fill3 {
+  top: 782px;
+}
+.user-fill3 {
+  top: 623px;
+}
+.tour-guide-i {
+  top: 623px;
+  left: 355px;
+  width: 869px;
+}
+.more3,
+.tour-guide-i,
+.tour-guide-ii,
+.tour-guide-iii,
+.tour-guide-iv {
+  position: absolute;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  height: 66px;
+}
+.more3 {
+  top: 1272px;
+  left: 273px;
+  text-align: center;
+  width: 772px;
+}
+.tour-guide-ii,
+.tour-guide-iii,
+.tour-guide-iv {
+  top: 1131px;
+  left: 355px;
+  width: 869px;
+}
+.tour-guide-ii,
+.tour-guide-iii {
+  top: 943px;
+}
+.tour-guide-ii {
+  top: 782px;
+}
+.personal-tour-guide {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1630px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-avenir);
+}
